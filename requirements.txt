@@ -1,0 +1,9 @@
+streamlit~=1.30.0
+google-generativeai
+python-dotenv~=1.0.0
+langchain~=0.1.0
+PyPDF2~=3.0.1
+chromadb
+faiss-cpu
+langchain_google_genai
+ipython~=8.22.1
